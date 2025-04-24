@@ -6,18 +6,26 @@ This is a Data Science and Computer Vision project that transforms real images i
 🛠️ Tools Used
 
 Python – Programming language used for image processing
+
 OpenCV – Core library for computer vision and filtering techniques
+
 NumPy – For efficient array operations and image data manipulation
+
 Jupyter Notebook / Google Colab – For interactive coding and visualization
 
 
 🎯 Objectives
 
 Apply image processing techniques to give a cartoon-like appearance to real-world images
+
 Use bilateral filtering for smoothening while preserving edges
+
 Convert images to grayscale and apply median blur to reduce noise
+
 Use adaptive thresholding to detect edges and create a sketch effect
+
 Combine all processed layers to compile the final cartoonized image
+
 Encourage experimentation with filters and thresholding techniques to explore various cartoon styles
 
 
