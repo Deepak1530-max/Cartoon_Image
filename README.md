@@ -1,4 +1,4 @@
-# Cartoon_Image
+# Cartooning-an-Image-using-OpenCV-Python
 Overview
 
 This is a Data Science and Computer Vision project that transforms real images into cartoon-style visuals using Python and OpenCV. The process involves applying a series of image filters and transformations like smoothing, edge detection, and thresholding to achieve a sketch-pen cartoon effect.
